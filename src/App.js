@@ -10,7 +10,7 @@ class App extends Component {
 			<div className={styles.container}>
 				<Header />
 				<MainContainer />
-				<Footer className="another" />
+				<Footer className="master branch" />
 			</div>
 		);
 	}
