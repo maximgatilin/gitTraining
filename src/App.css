@@ -9,4 +9,6 @@
 
 .test_selector {
 	color: white;
+	background: white;
+	overflow: hidden;
 }
