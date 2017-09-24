@@ -19,4 +19,5 @@ class App extends Component {
 const a = 12;
 let b = 'String';
 const c = 'Super test';
+
 export default App;
