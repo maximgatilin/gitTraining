@@ -16,4 +16,7 @@ class App extends Component {
 	}
 }
 
+const a = 12;
+let b = 'String';
+
 export default App;
