@@ -10,7 +10,7 @@ class App extends Component {
 			<div className={styles.container}>
 				<Header />
 				<MainContainer />
-				<Footer className="exp branch"/>
+				<Footer className="another" />
 			</div>
 		);
 	}
